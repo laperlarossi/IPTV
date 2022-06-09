@@ -12,6 +12,14 @@ http://2941.vicp.net:8888/udp/239.77.0.112:5146
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://n.ysyz.top:99/buyaolian/wxty.png" group-title="中超地方体育台",五星体育 高码
 http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2000" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道",五星体育高清
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2001" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道",五星体育高清
+http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2002" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道",五星体育高清
+http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2003" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="特色频道",五星体育高清
+http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://www.hualigs.cn/image/61ddafef7c1e8.jpg" group-title="中超地方体育台",天津体育
 http://anyun-ship.com:8888/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="中超地方体育台",山东体育
