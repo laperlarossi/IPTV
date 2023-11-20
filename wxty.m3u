@@ -17,3 +17,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&amp;Contentid=5000000010000017540&amp;livemode=1&amp;stbId=3
 #EXTINF:-1,tvg-id="2009" tvg-name="上海五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海频道",五星体育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8?
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
+http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1417620230603135958814476&channel-id=bestzb&Contentid=5000000010000017540
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
+https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
+http://58.32.40.25:8000/udp/239.45.3.210:5140
