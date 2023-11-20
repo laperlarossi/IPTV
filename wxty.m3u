@@ -25,3 +25,5 @@ http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="上海",五星体育
 http://58.32.40.25:8000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海 🇨🇳️",五星体育
+http://cntv.lat/tv/live.php?auth=231110&id=wxty
